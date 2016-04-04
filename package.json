@@ -1,0 +1,25 @@
+{
+  "name": "ng-img-fallback",
+  "version": "1.0.0",
+  "description": "An angular directive for displaying a fallback Image in case the current image fails to load due to say network error of non existence.",
+  "main": "ngImgFallback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "image",
+    "img",
+    "fallback",
+    "src",
+    "error",
+    "javascript",
+    "dom",
+    "multimedia",
+    "handling",
+    "ngImageFallback"
+  ],
+  "author": "Param Singh",
+  "license": "ISC"
+}
